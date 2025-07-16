@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%1-h$dc*a!td(pc9ic+1@2)z)@p*_j&_p!h6b-u5yrg%ys#d+p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tastoria-backend-2.onrender.com']
 
 
 # Application definition
